@@ -132,8 +132,6 @@ renderTable({
   get_transactions(33724309, start="01-09-2015", end="24-10-2016")
 })
 
-
-
 ```
 
 Довідка
